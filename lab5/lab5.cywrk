@@ -2,16 +2,17 @@
 <CyXmlSerializer>
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
-<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="lab4" persistent="lab4.cywrk" platform="NOT_USED">
-<current_project name=".\task3.cydsn\task3.cyprj" />
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="lab5" persistent="lab5.cywrk" platform="NOT_USED">
+<current_project name=".\task4.cydsn\task4.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
 <v>.\task1.cydsn\task1.cyprj</v>
 <v>.\task2.cydsn\task2.cyprj</v>
 <v>.\task3.cydsn\task3.cyprj</v>
+<v>.\task4.cydsn\task4.cyprj</v>
 </projects>
-<workspace_id v="d8a40a31-5b4c-4e8e-88a2-c6f37fe32c25" />
+<workspace_id v="c7022f72-6e65-45e6-a2a3-d840b13b8a27" />
 <WriteAppVersionLastSavedWith v="4.4.0.80" />
 <WriteAppMarketingVersionLastSavedWith v="4.4" />
 <CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
